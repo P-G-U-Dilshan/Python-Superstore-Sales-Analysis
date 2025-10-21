@@ -1,6 +1,6 @@
 # Superstore Sales & Profitability Analysis (Python)
 
-> **Note:** You can view a summary of this project's findings on my [**LinkedIn Post**]([https://www.linkedin.com/posts/pgudilshan_data-analysis-project-using-python-activity-7386260793136340992-KYsa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-q3BUBsl-DjW0ndOchJC_uNQMSfqYydL0]).
+> **Note:** You can view a summary of this project's findings on my [**LinkedIn Post**](https://www.linkedin.com/posts/pgudilshan_data-analysis-project-using-python-activity-7386260793136340992-KYsa?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-q3BUBsl-DjW0ndOchJC_uNQMSfqYydL0).
 
 This project is an end-to-end Exploratory Data Analysis (EDA) of the popular "Superstore" dataset. The primary goal is to use Python (Pandas, Matplotlib, and Seaborn) to clean the data, analyze sales/profit trends, and identify key drivers of profitability.
 
